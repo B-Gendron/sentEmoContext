@@ -1,0 +1,14 @@
+Here is a dialog :
+
+-  Hello , Miao Li , Where are you going ? 
+-   Hello , I am going to the store to buy some fruit . 
+-   Oh , Would you do me a favor ? 
+-   Yes ? 
+-   Please mail this letter for me on your way to the store . 
+-   Sure . Do you want it to be registered ? 
+-   Yes , I think so . There are some pictures in it . It would be a great pity if they were lost . 
+-   Yes , I will be glad to mail your letter . 
+-   Thanks . 
+-   you are welcome . 
+
+Regarding its conversational context, give me the appropriate emotion to describe this utterance : "Yes , I think so . There are some pictures in it . It would be a great pity if they were lost .", using only one of the following labels: happiness, sadness, anger, surprise, fear, disgust, no emotion. Predicted label :

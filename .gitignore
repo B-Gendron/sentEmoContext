@@ -1,0 +1,12 @@
+SiameseNetworks/code/.vector_cache
+SiameseNetworks/code/__pycache__/
+LLMs/__pycache__/
+SiameseNetworks/data_misc/
+SiameseNetworks/results/
+SiameseNetworks/models/
+SiameseNetworks/plots/
+SiameseNetworks/data/
+SiameseNetworks/best_model_v0.pt
+SiameseNetworks/code/test.py
+SiameseNetworks/code/display.py
+SiameseNetworks/code/confusion_matrix.py
