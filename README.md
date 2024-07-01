@@ -141,4 +141,21 @@ BibTeX citations to be added
 
 ### JEP-TALN 2024
 
+```
+@inproceedings{Gendron-Guibon:JEP-TALN:2024,
+    author = {Gendron, Barbara and Guibon, Ga\"el},
+    title = "SEC : contexte \'emotionnel phrastique int\'egr\'e pour la reconnaissance \'emotionnelle efficiente dans la conversation",
+    booktitle = "Actes de JEP-TALN-RECITAL 2024. 31\`eme Conf\'erence sur le Traitement Automatique des Langues Naturelles,  volume 1 : articles longs et prises de position",
+    month = "7",
+    year = "2024",
+    address = "Toulouse, France",
+    publisher = "Association pour le Traitement Automatique des Langues",
+    pages = "219-233",
+    note = "",
+    abstract = "L'essor des mod\`eles d'apprentissage profond a apport\'e une contribution significative \`a la reconnaissance des \'emotions dans les conversations (ERC). Cependant, cette t\^ache reste un d\'efi important en raison de la pluralit\'e et de la subjectivit\'e des \'emotions humaines. Les travaux ant\'erieurs sur l'ERC fournissent des mod\`eles pr\'edictifs utilisant principalement des repr\'esentations de la conversation bas\'ees sur des graphes. Dans ce travail, nous proposons une fa\c{c}on de mod\'eliser le contexte conversationnel que nous incorporons \`a une strat\'egie d'apprentissage de m\'etrique, avec un processus en deux \'etapes. Cela permet d'effectuer l'ERC dans un sc\'enario de classification flexible et d'obtenir un mod\`ele l\'eger et efficace. En utilisant l'apprentissage de m\'etrique \`a travers une architecture de r\'eseau siamois, nous obtenons un score de macroF1 de 57,71\\% pour la classification des \'emotions dans les conversations sur le jeu de donn\'ees DailyDialog, ce qui surpasse les travaux connexes. Ce r\'esultat \'etat-de-l'art est prometteur en ce qui concerne l'utilisation de l'apprentissage de m\'etrique pour la reconnaissance des \'emotions, mais est perfectible au regard du microF1 obtenu.",
+    keywords = "Apprentissage profond,Reconnaissance d'\'emotions en conversation,Apprentissage de m\'etrique",
+    url = "https://talnarchives.atala.org/TALN/TALN-2024/7864.pdf"
+}
+```
+
 ### WASSA 2024 (ACL workshop)
